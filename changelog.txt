@@ -1,0 +1,6 @@
+011220-0518:
+Optimize file size
+Optimize compilation time
+Add idle state node
+Properly set GPU timeout
+Removing all debug
