@@ -3,7 +3,7 @@
     "name": "HMP-kernel",
     "version": "011220-0518",
     "link": "https://github.com/RomashkaGang/kernel_xiaomi_platina/releases",
-    "changelog_url": "https://github.com/RomashkaGang/kernel_xiaomi_platina/releases",
+    "changelog_url": "https://raw.githubusercontent.com/RomashkaGang/KernelConfig/master/changelog.txt",
     "date": "2020-01-12",
     "sha1": "40126148f6c60395dc8396f808d774975b2d5b8b"
   },
